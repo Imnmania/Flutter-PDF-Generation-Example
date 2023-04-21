@@ -1,4 +1,4 @@
-# pdf_example_1
+# Flutter PDF Generation Example
 
 A new Flutter project.
 
